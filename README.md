@@ -87,20 +87,6 @@ Using scikit-learn `Pipeline` objects keeps preprocessing and the model together
 
 ---
 
-## Screenshots
-
-**Input form**
-
-<img width="707" height="718" alt="Screenshot 2026-11-10 190421" src="https://github.com/user-attachments/assets/dc471057-f834-4bda-b0fa-b77b3fed05c5" />
-
-
-**Prediction result**
-
-<img width="693" height="717" alt="Screenshot 2026-11-10 190432" src="https://github.com/user-attachments/assets/5b1d17a9-b8b6-40c5-961a-de14ae836fd9" />
-
-
----
-
 ## Getting Started
 
 ### Requirements
